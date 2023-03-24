@@ -1,0 +1,25 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "Application that tells jokes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariesaeter/joker.git"
+  },
+  "keywords": [
+    "css",
+    "e-commerce",
+    "portfolio",
+    "website"
+  ],
+  "author": "Marie Sæter <marie.saeter@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/mariesaeter/joker/issues"
+  },
+  "homepage": "https://github.com/mariesaeter/joker#readme"
+}
